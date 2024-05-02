@@ -1,0 +1,33 @@
+.props {
+    text-align: center;
+  }
+
+  .person {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: medium;
+  }
+
+  .create-button {
+    margin-bottom: 20px;
+    border-radius: 5px;
+    background-color: blue;
+    border-color: transparent;
+
+  }
+
+  .update-button,
+  .delete-button {
+    margin-top: 10px;
+    border-radius: 5px;
+    border-color: transparent;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .update-button {
+    background-color: yellow;
+  }
+
+  .delete-button {
+    background-color:brown
+  }
